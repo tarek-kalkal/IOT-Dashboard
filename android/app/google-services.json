@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "301530807372",
+    "firebase_url": "https://iotplug-c8cb1.firebaseio.com",
+    "project_id": "iotplug-c8cb1",
+    "storage_bucket": "iotplug-c8cb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301530807372:android:05ab318405e282543988e9",
+        "android_client_info": {
+          "package_name": "com.example.iotplug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301530807372-ttf896rurf7u0qucbpvqspjiho523el6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPxndO65cLDU-2T5fdj7fbeisG3VqZ1Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301530807372-ttf896rurf7u0qucbpvqspjiho523el6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
