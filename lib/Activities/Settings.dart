@@ -21,7 +21,7 @@ class SettingState extends State<Settings> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Settings"),
+        title: Text("Settings tab"),
       ),
 //      body: Container(
 //        color: Colors.grey[200],
@@ -111,8 +111,7 @@ class SettingState extends State<Settings> {
     final isPic = prefs.getBool('isThereAPic');
     if(isPic == true)
     return  showimage();
-    else
-      return
+  
     }
 
 
@@ -133,7 +132,7 @@ class SettingState extends State<Settings> {
                                 shape: BoxShape.circle,
                                 image: new DecorationImage(
                                     fit: BoxFit.fill,
-                                    image: new
+                                    //image: new
                                 )
                             ))]));
 
